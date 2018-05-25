@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbArg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbCUDA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbDataset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbDirectory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbExit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbExport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbImport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbMPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbPPM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbSolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbSparse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\wbUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\vendor\json11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\All-work\Parallel\Project-rotate-496\libwb-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BFA6DB37-818F-3B17-B753-5F7B090429EF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

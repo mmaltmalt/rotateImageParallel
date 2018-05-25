@@ -1,0 +1,4 @@
+D:/All-work/Parallel/Project-rotate-496/libwb-master-build/CMakeFiles/wb.dir
+D:/All-work/Parallel/Project-rotate-496/libwb-master-build/CMakeFiles/libwb.dir
+D:/All-work/Parallel/Project-rotate-496/libwb-master-build/CMakeFiles/ALL_BUILD.dir
+D:/All-work/Parallel/Project-rotate-496/libwb-master-build/CMakeFiles/ZERO_CHECK.dir
